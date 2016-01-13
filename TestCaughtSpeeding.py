@@ -1,6 +1,6 @@
 import unittest
 
-import StudentTest
+import CaughtSpeeding2
 
 class KnownValues(unittest.TestCase):
     known_values = ( (60, 'n', 0),
